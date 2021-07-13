@@ -1,5 +1,5 @@
 # Metastable
-Test codes for metastability inpection
+Test codes for metastability inspection
 
 -----------Not for Synthesis!----------
 
